@@ -1,5 +1,34 @@
+commit eddeecf290c67afc5bffb66217d53944638e721a
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Wed May 13 15:05:30 2026 -0700
+
+    Add groupmate info - Philip Guzman
+
+commit e0cc1efbf5fca5bf0051f86fad3e8e5036172d3b
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Wed May 13 14:42:10 2026 -0700
+
+    Add git_log.txt, repo-location.txt, and README
+    
+    Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+
+commit 59ff5fe911c8a9239c08f8834a38df8dceecbfdc
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Wed May 13 14:42:10 2026 -0700
+
+    Add git_log.txt, repo-location.txt, and README
+
 commit 40475c299423491e959f7455f0823e6caf3ebe2c
 Merge: f37cdce 93dc871
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Wed May 13 14:41:32 2026 -0700
+
+    Merge pull request #1 from Nishant441/feature-about-me
+    
+    Add personal info - Nishant Chalaune
+
+commit 5aa5fa7f06ae269cf76ec6577f43cc5f915ee27a
+Merge: 9f4441a c11c6f4
 Author: Nishant Chalaune <nishantchalaune11@gmail.com>
 Date:   Wed May 13 14:41:32 2026 -0700
 
@@ -16,6 +45,13 @@ Date:   Wed May 13 14:40:44 2026 -0700
     
     Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
+commit c11c6f4741a8a6516e11dd0958084fd2482eaf10
+Merge: 99df3cf 9f4441a
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Wed May 13 14:40:44 2026 -0700
+
+    Merge main and resolve conflict, keep styled about-me template
+
 commit c0d190d489a62ec27cc63816bb46f98f223e0705
 Author: Nishant Chalaune <nishantchalaune11@gmail.com>
 Date:   Wed May 13 14:39:22 2026 -0700
@@ -25,6 +61,14 @@ Date:   Wed May 13 14:39:22 2026 -0700
     Added name, hobbies, favorite food, and fun fact for Nishant Chalaune.
     
     Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+
+commit 99df3cfd3f27e5181702e8e688af88df01bd48e0
+Author: Nishant Chalaune <nishantchalaune11@gmail.com>
+Date:   Wed May 13 14:39:22 2026 -0700
+
+    Add personal info to index.html
+    
+    Added name, hobbies, favorite food, and fun fact for Nishant Chalaune.
 
 commit 36c86bac45225f2b53c6591729ec566171f0536d
 Author: JValenzuela1 <Jakeval64@gmail.com>
@@ -38,7 +82,22 @@ Date:   Wed Feb 5 22:05:30 2025 -0800
 
     Replicate assignment-1 index
 
+commit 9f4441a3644dc778ea14f4e4afdcd714a01bc3b6
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
 commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit 0a33a5efdca012c9499debb7aebb71a4fac9880e
 Merge: 7790057 bad1d21
 Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
 Date:   Wed Feb 5 22:03:43 2025 -0800
